@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: C:\Users\Killian Charles Mill\Desktop\mobs\src\main\java\net
+ \unstoppalezzz\mobs\Mobs
+
